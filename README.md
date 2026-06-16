@@ -242,9 +242,3 @@ LinkedIn: www.linkedin.com/in/ashutosh-gupta-ba31652a1
 
 This project demonstrates an end-to-end analytics workflow from raw data extraction to business insight generation using industry-standard analytics tools.
 
-It reflects practical skills required for roles such as:
-
-- Data Analyst  
-- Business Analyst  
-- Product Analyst  
-- Analytics Intern  
